@@ -7,7 +7,7 @@ IMPORTANT POINTS TO NOTE ABOUT THIS PROJECT:
 
 3:After which, you can apply or make use of the sort array method to shuffle the books to be able to display randomly whenever you refresh your web browser.
 
-4:lastly, shuffling an array can be done in many ways. but,  i got only two ways to do that which i'd be showing y'all on my next repo. STAY TUNED!!
+4:lastly, shuffling an array can be done in many ways. but,  i got only two ways to do that which i'd be showing y'all the step 2 on my next repo. STAY TUNED!!
 
 
 
