@@ -1,7 +1,4 @@
 # Shuffle array using sort method with javascript (step1)
-
-Awesome step to shuffle an Array using the sort method in minutes.
-
 IMPORTANT POINTS TO NOTE ABOUT THIS PROJECT:
 
 1:To begin with, this repo might seems simple but it's very essential when developing real world object. for instance, when developing a bookshop website for a client or yourself. however, making use of sort method to shuffle the books or pictures on the website.
