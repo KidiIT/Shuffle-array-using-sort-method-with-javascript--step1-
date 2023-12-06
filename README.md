@@ -1,6 +1,5 @@
 # Shuffle array using sort method with javascript (step1)
 IMPORTANT POINTS TO NOTE ABOUT THIS PROJECT:
-
 1:To begin with, this repo might seems simple but it's very essential when developing a real world object. for instance, when building a bookshop website for a client or for an organization that have alot of infrastructure. however, making use of sort method to shuffle the books or pictures on the website will be stress free on my end. Also, will be effective once you understand how looping works with javascript.
 
 2: furthermore, you can achieve step 1 by creating a function on your js.file that will shuffle the books or pictures depends on what you want to develop. using "FOR LOOP" iterate through the array that contain the books already created.eg (books.length)
